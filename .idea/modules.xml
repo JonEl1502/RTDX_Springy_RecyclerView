@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RTDX_Springy_RecyclerView.iml" filepath="$PROJECT_DIR$/.idea/modules/RTDX_Springy_RecyclerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RTDX_Springy_RecyclerView.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RTDX_Springy_RecyclerView.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springylib/RTDX_Springy_RecyclerView.springylib.iml" filepath="$PROJECT_DIR$/.idea/modules/springylib/RTDX_Springy_RecyclerView.springylib.iml" />
+    </modules>
+  </component>
+</project>
